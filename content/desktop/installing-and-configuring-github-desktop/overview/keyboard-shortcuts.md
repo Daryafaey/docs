@@ -1,4 +1,4 @@
----
+See---
 title: Keyboard shortcuts
 intro: 'You can use keyboard shortcuts in {% data variables.product.prodname_desktop %}.'
 redirect_from:
